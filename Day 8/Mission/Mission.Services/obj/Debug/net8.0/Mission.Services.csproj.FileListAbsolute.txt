@@ -1,0 +1,54 @@
+C:\TatvaSoft\Day_8\Mission\Mission.Services\bin\Debug\net8.0\Mission.Services.deps.json
+C:\TatvaSoft\Day_8\Mission\Mission.Services\bin\Debug\net8.0\Mission.Services.dll
+C:\TatvaSoft\Day_8\Mission\Mission.Services\bin\Debug\net8.0\Mission.Services.pdb
+C:\TatvaSoft\Day_8\Mission\Mission.Services\bin\Debug\net8.0\Mission.Entities.dll
+C:\TatvaSoft\Day_8\Mission\Mission.Services\bin\Debug\net8.0\Mission.Repositories.dll
+C:\TatvaSoft\Day_8\Mission\Mission.Services\bin\Debug\net8.0\Mission.Repositories.pdb
+C:\TatvaSoft\Day_8\Mission\Mission.Services\bin\Debug\net8.0\Mission.Entities.pdb
+C:\TatvaSoft\Day_8\Mission\Mission.Services\obj\Debug\net8.0\Mission.Services.csproj.AssemblyReference.cache
+C:\TatvaSoft\Day_8\Mission\Mission.Services\obj\Debug\net8.0\Mission.Services.GeneratedMSBuildEditorConfig.editorconfig
+C:\TatvaSoft\Day_8\Mission\Mission.Services\obj\Debug\net8.0\Mission.Services.AssemblyInfoInputs.cache
+C:\TatvaSoft\Day_8\Mission\Mission.Services\obj\Debug\net8.0\Mission.Services.AssemblyInfo.cs
+C:\TatvaSoft\Day_8\Mission\Mission.Services\obj\Debug\net8.0\Mission.Services.csproj.CoreCompileInputs.cache
+C:\TatvaSoft\Day_8\Mission\Mission.Services\obj\Debug\net8.0\Mission.Services.sourcelink.json
+C:\TatvaSoft\Day_8\Mission\Mission.Services\obj\Debug\net8.0\Mission..F9A2C6AE.Up2Date
+C:\TatvaSoft\Day_8\Mission\Mission.Services\obj\Debug\net8.0\Mission.Services.dll
+C:\TatvaSoft\Day_8\Mission\Mission.Services\obj\Debug\net8.0\refint\Mission.Services.dll
+C:\TatvaSoft\Day_8\Mission\Mission.Services\obj\Debug\net8.0\Mission.Services.pdb
+C:\TatvaSoft\Day_8\Mission\Mission.Services\obj\Debug\net8.0\ref\Mission.Services.dll
+C:\Users\SHIVAM PANDIT\Desktop\TatvaSoft\Summer-Internship\Day_8\Mission\Mission.Services\bin\Debug\net8.0\Mission.Services.deps.json
+C:\Users\SHIVAM PANDIT\Desktop\TatvaSoft\Summer-Internship\Day_8\Mission\Mission.Services\bin\Debug\net8.0\Mission.Services.dll
+C:\Users\SHIVAM PANDIT\Desktop\TatvaSoft\Summer-Internship\Day_8\Mission\Mission.Services\bin\Debug\net8.0\Mission.Services.pdb
+C:\Users\SHIVAM PANDIT\Desktop\TatvaSoft\Summer-Internship\Day_8\Mission\Mission.Services\bin\Debug\net8.0\Mission.Entities.dll
+C:\Users\SHIVAM PANDIT\Desktop\TatvaSoft\Summer-Internship\Day_8\Mission\Mission.Services\bin\Debug\net8.0\Mission.Repositories.dll
+C:\Users\SHIVAM PANDIT\Desktop\TatvaSoft\Summer-Internship\Day_8\Mission\Mission.Services\bin\Debug\net8.0\Mission.Repositories.pdb
+C:\Users\SHIVAM PANDIT\Desktop\TatvaSoft\Summer-Internship\Day_8\Mission\Mission.Services\bin\Debug\net8.0\Mission.Entities.pdb
+C:\Users\SHIVAM PANDIT\Desktop\TatvaSoft\Summer-Internship\Day_8\Mission\Mission.Services\obj\Debug\net8.0\Mission.Services.csproj.AssemblyReference.cache
+C:\Users\SHIVAM PANDIT\Desktop\TatvaSoft\Summer-Internship\Day_8\Mission\Mission.Services\obj\Debug\net8.0\Mission.Services.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\SHIVAM PANDIT\Desktop\TatvaSoft\Summer-Internship\Day_8\Mission\Mission.Services\obj\Debug\net8.0\Mission.Services.AssemblyInfoInputs.cache
+C:\Users\SHIVAM PANDIT\Desktop\TatvaSoft\Summer-Internship\Day_8\Mission\Mission.Services\obj\Debug\net8.0\Mission.Services.AssemblyInfo.cs
+C:\Users\SHIVAM PANDIT\Desktop\TatvaSoft\Summer-Internship\Day_8\Mission\Mission.Services\obj\Debug\net8.0\Mission.Services.csproj.CoreCompileInputs.cache
+C:\Users\SHIVAM PANDIT\Desktop\TatvaSoft\Summer-Internship\Day_8\Mission\Mission.Services\obj\Debug\net8.0\Mission.Services.sourcelink.json
+C:\Users\SHIVAM PANDIT\Desktop\TatvaSoft\Summer-Internship\Day_8\Mission\Mission.Services\obj\Debug\net8.0\Mission..F9A2C6AE.Up2Date
+C:\Users\SHIVAM PANDIT\Desktop\TatvaSoft\Summer-Internship\Day_8\Mission\Mission.Services\obj\Debug\net8.0\Mission.Services.dll
+C:\Users\SHIVAM PANDIT\Desktop\TatvaSoft\Summer-Internship\Day_8\Mission\Mission.Services\obj\Debug\net8.0\refint\Mission.Services.dll
+C:\Users\SHIVAM PANDIT\Desktop\TatvaSoft\Summer-Internship\Day_8\Mission\Mission.Services\obj\Debug\net8.0\Mission.Services.pdb
+C:\Users\SHIVAM PANDIT\Desktop\TatvaSoft\Summer-Internship\Day_8\Mission\Mission.Services\obj\Debug\net8.0\ref\Mission.Services.dll
+C:\Users\SHIVAM PANDIT\Desktop\TatvaSoft\Day 8\Mission\Mission.Services\obj\Debug\net8.0\Mission.Services.dll
+C:\Users\SHIVAM PANDIT\Desktop\TatvaSoft\Day 8\Mission\Mission.Services\obj\Debug\net8.0\refint\Mission.Services.dll
+C:\Users\SHIVAM PANDIT\Desktop\TatvaSoft\Day 8\Mission\Mission.Services\obj\Debug\net8.0\Mission.Services.pdb
+C:\Users\SHIVAM PANDIT\Desktop\TatvaSoft\Day 8\Mission\Mission.Services\bin\Debug\net8.0\Mission.Services.deps.json
+C:\Users\SHIVAM PANDIT\Desktop\TatvaSoft\Day 8\Mission\Mission.Services\bin\Debug\net8.0\Mission.Services.dll
+C:\Users\SHIVAM PANDIT\Desktop\TatvaSoft\Day 8\Mission\Mission.Services\bin\Debug\net8.0\Mission.Services.pdb
+C:\Users\SHIVAM PANDIT\Desktop\TatvaSoft\Day 8\Mission\Mission.Services\bin\Debug\net8.0\Mission.Entities.dll
+C:\Users\SHIVAM PANDIT\Desktop\TatvaSoft\Day 8\Mission\Mission.Services\bin\Debug\net8.0\Mission.Repositories.dll
+C:\Users\SHIVAM PANDIT\Desktop\TatvaSoft\Day 8\Mission\Mission.Services\bin\Debug\net8.0\Mission.Repositories.pdb
+C:\Users\SHIVAM PANDIT\Desktop\TatvaSoft\Day 8\Mission\Mission.Services\bin\Debug\net8.0\Mission.Entities.pdb
+C:\Users\SHIVAM PANDIT\Desktop\TatvaSoft\Day 8\Mission\Mission.Services\obj\Debug\net8.0\Mission.Services.csproj.AssemblyReference.cache
+C:\Users\SHIVAM PANDIT\Desktop\TatvaSoft\Day 8\Mission\Mission.Services\obj\Debug\net8.0\Mission.Services.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\SHIVAM PANDIT\Desktop\TatvaSoft\Day 8\Mission\Mission.Services\obj\Debug\net8.0\Mission.Services.AssemblyInfoInputs.cache
+C:\Users\SHIVAM PANDIT\Desktop\TatvaSoft\Day 8\Mission\Mission.Services\obj\Debug\net8.0\Mission.Services.AssemblyInfo.cs
+C:\Users\SHIVAM PANDIT\Desktop\TatvaSoft\Day 8\Mission\Mission.Services\obj\Debug\net8.0\Mission.Services.csproj.CoreCompileInputs.cache
+C:\Users\SHIVAM PANDIT\Desktop\TatvaSoft\Day 8\Mission\Mission.Services\obj\Debug\net8.0\Mission.Services.sourcelink.json
+C:\Users\SHIVAM PANDIT\Desktop\TatvaSoft\Day 8\Mission\Mission.Services\obj\Debug\net8.0\Mission..F9A2C6AE.Up2Date
+C:\Users\SHIVAM PANDIT\Desktop\TatvaSoft\Day 8\Mission\Mission.Services\obj\Debug\net8.0\ref\Mission.Services.dll
